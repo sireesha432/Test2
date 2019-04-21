@@ -1,3 +1,3 @@
 # Test2
 git practice
-guthub.com
+connecting github with git
